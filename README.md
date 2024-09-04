@@ -1,1 +1,1 @@
-# JavaScript_Learning-Chai-Aur-Code-
+Learning Basics of JavaScript
